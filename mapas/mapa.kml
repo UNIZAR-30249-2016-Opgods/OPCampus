@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mapa" id="mapa">
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="id_utc" type="string"></SimpleField>
+	<SimpleField name="id_centro" type="string"></SimpleField>
+	<SimpleField name="tipo_de_us" type="float"></SimpleField>
+</Schema>
+<Folder><name>mapa</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.010</SimpleData>
+		<SimpleData name="id_utc">00.010</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888570268094081,41.683298699311038 -0.888608555677179,41.683298822112199 -0.888607400395915,41.683376128176178 -0.888569112766977,41.683376005373582 -0.888570268094081,41.683298699311038</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.020</SimpleData>
+		<SimpleData name="id_utc">00.020</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888433908762944,41.683375571570053 -0.888434197821023,41.683356245433778 -0.888434197826286,41.683356245081896 -0.888443770830763,41.683356275798452 -0.888444736384037,41.683291676368391 -0.888493792229974,41.68329183375819 -0.888493911754822,41.683283836632867 -0.888513055445561,41.683283898047343 -0.888512836983922,41.683298515086243 -0.888569669900704,41.683298697392324 -0.888567319399232,41.683455975242573 -0.88854697919558,41.683455909998003 -0.888545186384344,41.683575867658504 -0.888527239070415,41.683575810085593 -0.888527136147093,41.683582696562546 -0.888528930794917,41.683582702319704 -0.888528811271524,41.683590699498083 -0.888527016623478,41.683590693740911 -0.888526824057771,41.683603578066077 -0.888528618706175,41.683603583823256 -0.88852849586243,41.68361180314988 -0.888526704533972,41.683611575244413 -0.888526641451937,41.683615795977452 -0.888508095840644,41.683615736485351 -0.888508095840695,41.683615736481975 -0.888439895953928,41.683615517666802 -0.888439895953692,41.68361551768259 -0.888429127630927,41.683615483131341 -0.888429340139435,41.683601265908287 -0.8884401084598,41.683601300461426 -0.888440838947034,41.683552428817741 -0.888430070634818,41.683552394264872 -0.888430283141806,41.683538177077217 -0.88844105145165,41.683538211630015 -0.88844109129629,41.683535545903979 -0.888430322891172,41.683535511350868 -0.888430535494145,41.683521294127928 -0.888441303801173,41.683521328680634 -0.888442034283561,41.683472457071829 -0.888431265984683,41.683472422519365 -0.888431478490947,41.68345820529597 -0.888442246787453,41.683458239848349 -0.888442286631858,41.68345557412227 -0.888431518335796,41.683455539569906 -0.888431730841794,41.683441322346454 -0.888442499135485,41.683441356898754 -0.888443229614092,41.683392485253705 -0.88843246132855,41.683392450701668 -0.888432673833027,41.683378233513594 -0.888443442089091,41.683378268065475 -0.888443481961146,41.683375602287313 -0.888433908762966,41.683375571570053 -0.888433908762944,41.683375571570053</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.025</SimpleData>
+		<SimpleData name="id_utc">00.025</SimpleData>
+		<SimpleData name="id_centro">ASCENSORES</SimpleData>
+		<SimpleData name="tipo_de_us">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888528436385004,41.683615785992593 -0.88852899283323,41.683578554684402 -0.888556512049171,41.683578642961322 -0.888555955616814,41.683615874270039 -0.888528436385004,41.683615785992593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.030</SimpleData>
+		<SimpleData name="id_utc">00.030</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888301277950559,41.683283219625864 -0.888320421651569,41.683283281072498 -0.888320302114438,41.683291277581297 -0.888386108637225,41.683291488780128 -0.88838622817537,41.683283491657967 -0.888405371865162,41.683283553090391 -0.888405153370113,41.683298170732748 -0.888408742853162,41.683298182251129 -0.888408961367466,41.683283564066734 -0.888428105049357,41.683283626037415 -0.888427985516357,41.683291623162518 -0.888444735761604,41.683291676770494 -0.888444119466417,41.683332950694826 -0.888300541398349,41.683332491006055 -0.888301277950559,41.683283219625864</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.035</SimpleData>
+		<SimpleData name="id_utc">00.035</SimpleData>
+		<SimpleData name="id_centro">RELLANO</SimpleData>
+		<SimpleData name="tipo_de_us">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888434197821023,41.683356245433778 -0.888433908762944,41.683375571570053 -0.888333405494917,41.683375248492467 -0.888334003202578,41.683335264081961 -0.8883698965226,41.683335378398809 -0.888369587707655,41.683356037748887 -0.888434197821023,41.683356245433778</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.040</SimpleData>
+		<SimpleData name="id_utc">00.040</SimpleData>
+		<SimpleData name="id_centro">AULA_A0.1</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888411148144727,41.683137263213595 -0.888443582029742,41.683128786544799 -0.888443439305123,41.683138335499777 -0.88847947539983,41.683128932330511 -0.888479333138227,41.683138450661595 -0.88851536978778,41.68312904686961 -0.888513075366366,41.683282565166451 -0.888492136928888,41.683282497994128 -0.888492017403828,41.683290495119451 -0.888429800090511,41.683290296040227 -0.888429919631379,41.683282298373101 -0.888408981278455,41.683282231185885 -0.888411148144727,41.683137263213595</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.050</SimpleData>
+		<SimpleData name="id_utc">00.050</SimpleData>
+		<SimpleData name="id_centro">AULA_A.02</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888303464628448,41.683136942549702 -0.888335898814949,41.683128471408146 -0.888335756532183,41.683137989738555 -0.888371792099771,41.68312858598857 -0.888371649822296,41.683138104319127 -0.888407686478775,41.683128701041134 -0.88840539178819,41.683282220209549 -0.888384453351747,41.683282153017601 -0.88838433381335,41.683290150142511 -0.888322116908162,41.683289951077356 -0.888322236311378,41.683281953952211 -0.888301297875735,41.6832818867451 -0.888303464628448,41.683136942549702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.060</SimpleData>
+		<SimpleData name="id_utc">00.060</SimpleData>
+		<SimpleData name="id_centro">AULA</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888285007410773,41.683377759597654 -0.888430879083276,41.683378227754737 -0.88843064665577,41.683393777823582 -0.888441415037244,41.68339381237611 -0.888440724402173,41.683440018259482 -0.888429956012994,41.68343998370672 -0.888429723584919,41.683455533742546 -0.888248326895182,41.683454950726798 -0.888273795397064,41.683429415400326 -0.888285007410773,41.683377759597654</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.070</SimpleData>
+		<SimpleData name="id_utc">00.070</SimpleData>
+		<SimpleData name="id_centro">AULA_A.04</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888283811899088,41.683457730485664 -0.888429683738973,41.683458199537021 -0.888429471232844,41.683472416724882 -0.888429451310093,41.683473749605668 -0.888440219704903,41.6834737841586 -0.888439529065755,41.683519990041333 -0.88842876066324,41.683519955488137 -0.888428528232769,41.683535505592175 -0.888247131319389,41.68353492250089 -0.888272599867752,41.68350938629608 -0.888283811899088,41.683457730485664</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.080</SimpleData>
+		<SimpleData name="id_utc">00.080</SimpleData>
+		<SimpleData name="id_centro">AULA</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888282616353773,41.683537703149703 -0.88842848838761,41.68353817131819 -0.888428255957357,41.68355372138663 -0.888439024365504,41.683553755939997 -0.888438333722011,41.683599961839825 -0.888427565306158,41.683599927286231 -0.88842733287587,41.683615477286082 -0.8882459357368,41.683614894256117 -0.888271404318228,41.683589358070421 -0.888282616353773,41.683537703149703</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.090</SimpleData>
+		<SimpleData name="id_utc">00.090</SimpleData>
+		<SimpleData name="id_centro">AULA_A.06</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888281420827967,41.68361767403546 -0.888427293029187,41.683618143098236 -0.888427060597828,41.683633693148685 -0.888437829019313,41.683633727702471 -0.888437138371474,41.683679933619445 -0.888426369942284,41.683679899065417 -0.8884261375096,41.683695449133467 -0.888244740146884,41.683694866027984 -0.888270208761645,41.683669329843617 -0.888281420827967,41.68361767403546</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.100</SimpleData>
+		<SimpleData name="id_utc">00.100</SimpleData>
+		<SimpleData name="id_centro">AULA_A.07</SimpleData>
+		<SimpleData name="tipo_de_us">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888280225268531,41.683697646697254 -0.888426097663704,41.683698114877174 -0.888425865230973,41.683713664927403 -0.888436633665795,41.683713699481601 -0.888435943013877,41.68375990539792 -0.88842517457135,41.683759870843495 -0.888424942137426,41.683775420902428 -0.888243544550175,41.683774837780959 -0.888269013198001,41.683749301615713 -0.888280225268531,41.683697646697254</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.110</SimpleData>
+		<SimpleData name="id_utc">00.110</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888427603453267,41.68379742274481 -0.888427892335128,41.68377809623199 -0.888437465402148,41.683778126950507 -0.888437505247627,41.68377546121571 -0.888426736898217,41.683775426661647 -0.888426949408837,41.683761209465644 -0.888437717755877,41.683761244019628 -0.888438448251737,41.683712372377322 -0.888427679912849,41.683712337823614 -0.888427892422347,41.683698120636329 -0.888438660731758,41.683698155189894 -0.888438700604241,41.683695489446251 -0.888427932088695,41.683695454892032 -0.888428144777666,41.683681237687544 -0.888438913111369,41.683681272241103 -0.888439643602916,41.683632400598093 -0.888428875277363,41.683632366044804 -0.888429087786509,41.683618148796938 -0.888439856108787,41.683618183410552 -0.888439895953692,41.68361551768259 -0.888508095840644,41.683615736485351 -0.888504456900174,41.683859206126094 -0.888436256755009,41.68385898730277 -0.888436349728042,41.683852767274743 -0.888413915672966,41.683852695286042 -0.888414393828493,41.683820706576 -0.888436827875539,41.683820778565163 -0.888437176523152,41.683797453463434 -0.888427603453267,41.68379742274481</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.115</SimpleData>
+		<SimpleData name="id_utc">00.115</SimpleData>
+		<SimpleData name="id_centro">RELLANO</SimpleData>
+		<SimpleData name="tipo_de_us">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888427892335128,41.68377809623199 -0.888427603453267,41.68379742274481 -0.888362992893177,41.683797215397853 -0.8883626840673,41.683817874772892 -0.888326790492215,41.683817759567894 -0.88832738824152,41.683777773681321 -0.888427892335128,41.68377809623199 -0.888427892335128,41.68377809623199</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.120</SimpleData>
+		<SimpleData name="id_utc">00.120</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888378499066544,41.683820591383316 -0.888413795546561,41.683820704656085 -0.888413317388875,41.683852693366482 -0.888378020893235,41.68385258009279 -0.888378499066544,41.683820591383316</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.130</SimpleData>
+		<SimpleData name="id_utc">00.130</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888436250114076,41.683859431590534 -0.888480520348252,41.683859573638259 -0.888480175187031,41.683882666448568 -0.888435904937022,41.683882524400353 -0.888436250114076,41.683859431590534</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.150</SimpleData>
+		<SimpleData name="id_utc">00.150</SimpleData>
+		<SimpleData name="id_centro">ALMACEN</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88839856061848,41.68385931064465 -0.88843266069044,41.683859420072572 -0.888431963388803,41.683906070276919 -0.888397863292208,41.683905960848193 -0.88839856061848,41.68385931064465</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.160</SimpleData>
+		<SimpleData name="id_utc">00.160</SimpleData>
+		<SimpleData name="id_centro">DESPACHO</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88836302760335,41.683859196607607 -0.888397948661964,41.68385930868078 -0.888397251335248,41.683905958884331 -0.888362330251404,41.683905846810369 -0.88836302760335,41.683859196607607</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.170</SimpleData>
+		<SimpleData name="id_utc">00.170</SimpleData>
+		<SimpleData name="id_centro">DESPACHO</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888327079585735,41.683859081227503 -0.888362415692486,41.683859194643716 -0.888361718340098,41.683905844846429 -0.888326382207817,41.683905731429427 -0.888327079585735,41.683859081227503</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.175</SimpleData>
+		<SimpleData name="id_utc">00.175</SimpleData>
+		<SimpleData name="id_centro">DESPACHO</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888292670982403,41.683858970777813 -0.888326467674881,41.683859079263414 -0.888325770296522,41.683905729465302 -0.888291973579625,41.683905620978969 -0.888292670982403,41.683858970777813</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.180</SimpleData>
+		<SimpleData name="id_utc">00.180</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.01</SimpleData>
+		<SimpleData name="tipo_de_us">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888291535210924,41.683934943963038 -0.888359735432305,41.683935162874157 -0.888359602602639,41.683944048618194 -0.888363192030872,41.683944060138529 -0.888363324860047,41.683935174394499 -0.888431525083677,41.683935393262999 -0.88843139226389,41.683944279007321 -0.888432289575335,41.683944281886724 -0.888431246936768,41.68401403505775 -0.888290359581105,41.684013582872964 -0.888291535210924,41.683934943963038</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.190</SimpleData>
+		<SimpleData name="id_utc">00.190</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.02</SimpleData>
+		<SimpleData name="tipo_de_us">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88843408428951,41.683944287645794 -0.888434981692242,41.683944290525424 -0.888435114511409,41.683935404789551 -0.888503314737291,41.683935623615433 -0.888502139365527,41.684014262525054 -0.888433041652883,41.684014040816848 -0.88843408428951,41.683944287645794</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.200</SimpleData>
+		<SimpleData name="id_utc">00.200</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888546668421622,41.683977083420089 -0.88852064464836,41.683976999443495 -0.888520684574807,41.683974334199171 -0.888506326580258,41.683974288144235 -0.888506904279501,41.68393563512317 -0.888543397322504,41.683935752196248 -0.888543091871955,41.683956189430518 -0.888574798998654,41.683956291140817 -0.88857452675793,41.683974506928507 -0.888546708262947,41.683974417692426 -0.888546668421622,41.683977083420089</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.205</SimpleData>
+		<SimpleData name="id_utc">00.205</SimpleData>
+		<SimpleData name="id_centro">ASCENSORES</SimpleData>
+		<SimpleData name="tipo_de_us">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888545192279329,41.683935742208213 -0.888575104636321,41.683935838160735 -0.888574839035921,41.683953609667604 -0.888544926670697,41.683953513714826 -0.888545192279329,41.683935742208213</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.206</SimpleData>
+		<SimpleData name="id_utc">00.206</SimpleData>
+		<SimpleData name="id_centro">RELLANO</SimpleData>
+		<SimpleData name="tipo_de_us">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888546668421622,41.683977083420089 -0.888546070778362,41.684017069309562 -0.888573889314542,41.684017158546283 -0.888573530706025,41.684041150086841 -0.888519688375917,41.684040977363942 -0.888520644641013,41.683976999934991 -0.888546668421622,41.683977083420089</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.210</SimpleData>
+		<SimpleData name="id_utc">00.210</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888574626684437,41.683975824434896 -0.888574009161226,41.68401714318798 -0.88854792555306,41.684017059516826 -0.888548543092962,41.683975740764275 -0.888574626684437,41.683975824434896</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.211</SimpleData>
+		<SimpleData name="id_utc">00.211</SimpleData>
+		<SimpleData name="id_centro">HUECO INSTALACIONES</SimpleData>
+		<SimpleData name="tipo_de_us">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888506315727266,41.683974999003077 -0.888518280677226,41.683975037380755 -0.88851769366573,41.684014312291545 -0.888505728797875,41.684014274041019 -0.888506315727266,41.683974999003077</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.230</SimpleData>
+		<SimpleData name="id_utc">00.230</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.03</SimpleData>
+		<SimpleData name="tipo_de_us">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888578614141847,41.683941196870897 -0.888624096226581,41.683941342751552 -0.888624175902601,41.683936011300183 -0.888646894097643,41.683936084160457 -0.888646761307493,41.683944969905724 -0.888650350781845,41.683944981417241 -0.8886504835715,41.683936095671946 -0.888718683758486,41.683936314369824 -0.888718550978215,41.683945200115403 -0.888719448312601,41.683945202992632 -0.88871840598425,41.684014956173449 -0.888577518541535,41.684014504340674 -0.888578614141847,41.683941196870897</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.240</SimpleData>
+		<SimpleData name="id_utc">00.240</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.04</SimpleData>
+		<SimpleData name="tipo_de_us">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888721243027014,41.683945208747211 -0.888722141480382,41.683945142850334 -0.888722273232461,41.683936325879095 -0.888790473421696,41.683936544534326 -0.888790340651305,41.683945430280232 -0.888793930125894,41.683945441787259 -0.88879406289579,41.683936556041338 -0.888862263087274,41.683936774653972 -0.888862130326763,41.683945660400184 -0.888863027661207,41.68394566327629 -0.888861985487964,41.684015416462003 -0.888720200700602,41.684014961928071 -0.888721243027014,41.683945208747211</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.250</SimpleData>
+		<SimpleData name="id_utc">00.250</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.05</SimpleData>
+		<SimpleData name="tipo_de_us">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888864822375738,41.683945669028603 -0.888865719801469,41.683945671904986 -0.888865852561485,41.683936786158746 -0.888934052755219,41.68393700472874 -0.888933920004587,41.683945890475265 -0.888937509479412,41.683945901977808 -0.888937642229549,41.683937016231276 -0.889005842402709,41.683937234758574 -0.889005709661955,41.683946120505425 -0.889009299159721,41.683946132005801 -0.88900943189998,41.683937246258949 -0.889077632075387,41.683937464743622 -0.889076457402964,41.684016103683824 -0.888863780204434,41.684015422214394 -0.888864822375738,41.683945669028603</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.260</SimpleData>
+		<SimpleData name="id_utc">00.260</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889134446665842,41.683978967460718 -0.889108422878189,41.683978884108761 -0.889108462696323,41.683976218380359 -0.889080644194518,41.683976129273596 -0.889080916292457,41.683957913481379 -0.889112623426989,41.68395801504321 -0.88911292869727,41.683937577803263 -0.889149421750431,41.683937694683799 -0.889148844390179,41.683976347716879 -0.889134486391742,41.683976301723504 -0.889134446665842,41.683978967460718</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.260</SimpleData>
+		<SimpleData name="id_utc">00.260</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889111133959961,41.683937572054745 -0.889110868507096,41.683955343566275 -0.889080956111678,41.683955247753019 -0.889081221572777,41.683937476241752 -0.889111133959961,41.683937572054745</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.261</SimpleData>
+		<SimpleData name="id_utc">00.261</SimpleData>
+		<SimpleData name="id_centro">RELLANO</SimpleData>
+		<SimpleData name="tipo_de_us">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889108422878189,41.683978884108761 -0.889134446665842,41.683978967460718 -0.889133491054589,41.684042944909024 -0.889079648710634,41.684042772448599 -0.889080007085452,41.684018780901951 -0.889107825605633,41.684018870009304 -0.889108422878189,41.683978884108761</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.270</SimpleData>
+		<SimpleData name="id_utc">00.270</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889105971256493,41.684018848327007 -0.889080007291562,41.684018765159891 -0.889080624490975,41.683977446396568 -0.889106588439291,41.683977529563137 -0.889105971256493,41.684018848327007</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.271</SimpleData>
+		<SimpleData name="id_utc">00.271</SimpleData>
+		<SimpleData name="id_centro">HUECO INSTALACIONES</SimpleData>
+		<SimpleData name="tipo_de_us">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.8891368688193,41.683977020247717 -0.889148833772474,41.683977058576652 -0.889148247142622,41.684016333626687 -0.889136282184069,41.684016295170395 -0.8891368688193,41.683977020247717</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.280</SimpleData>
+		<SimpleData name="id_utc">00.280</SimpleData>
+		<SimpleData name="id_centro">LABORATORIO L 0.06</SimpleData>
+		<SimpleData name="tipo_de_us">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889153011247939,41.683937706179677 -0.889221211416433,41.683937924579077 -0.889221078705318,41.683946810326852 -0.889224668192027,41.683946821820477 -0.889224800902646,41.683937936072681 -0.889293001101914,41.683938154429541 -0.889292868400681,41.683947040177642 -0.889296457881802,41.68394705166898 -0.889296590582542,41.683938165920885 -0.889364790785127,41.683938384235148 -0.889363616462441,41.684017023186378 -0.889151836667322,41.684016345122771 -0.889153011247939,41.683937706179677</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.290</SimpleData>
+		<SimpleData name="id_utc">00.290</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889296610487741,41.683936833052307 -0.889297008589781,41.683910175782486 -0.889297161195303,41.68389995716575 -0.889365361357531,41.683900175478719 -0.889364810688918,41.683937051366527 -0.889296610487741,41.683936833052307</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.300</SimpleData>
+		<SimpleData name="id_utc">00.300</SimpleData>
+		<SimpleData name="id_centro">PASILLO</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88929755929629,41.683873299893627 -0.889365759430362,41.683873518205708 -0.88936536799211,41.683899731189172 -0.889297167830351,41.683899512876202 -0.88929755929629,41.683873299893627</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.310</SimpleData>
+		<SimpleData name="id_utc">00.310</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.21</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889260633887031,41.683862073950387 -0.889294135696186,41.683862181207097 -0.889293439016978,41.683908831429626 -0.889259937183595,41.683908724173619 -0.889260633887031,41.683862073950387</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.320</SimpleData>
+		<SimpleData name="id_utc">00.320</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.20</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.8892247390554,41.683861959021527 -0.889259437412031,41.683862070119659 -0.88925874070773,41.683908720342892 -0.889224042326031,41.683908609243943 -0.8892247390554,41.683861959021527</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.330</SimpleData>
+		<SimpleData name="id_utc">00.330</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.19</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889188844292826,41.683861844081669 -0.88922354258042,41.683861955190423 -0.889222845850187,41.683908605412832 -0.889188147537523,41.683908494303282 -0.889188844292826,41.683861844081669</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.340</SimpleData>
+		<SimpleData name="id_utc">00.340</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.18</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889153248626756,41.683861730088474 -0.889187647817866,41.683861840250209 -0.889186951061699,41.683908490471779 -0.889152551845737,41.683908380309269 -0.889153248626756,41.683861730088474</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.350</SimpleData>
+		<SimpleData name="id_utc">00.350</SimpleData>
+		<SimpleData name="id_centro">BAÑOS</SimpleData>
+		<SimpleData name="tipo_de_us">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88911667704993,41.683902917957298 -0.889117294221699,41.683861599192412 -0.889151394277522,41.683861708406894 -0.889150777127575,41.683903027172448 -0.88911667704993,41.683902917957298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.360</SimpleData>
+		<SimpleData name="id_utc">00.360</SimpleData>
+		<SimpleData name="id_centro">BAÑOS</SimpleData>
+		<SimpleData name="tipo_de_us">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889081459036093,41.683861500152652 -0.889115559095928,41.683861609377779 -0.889114941923013,41.683902928145052 -0.889080841841356,41.683902818919243 -0.889081459036093,41.683861500152652</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.370</SimpleData>
+		<SimpleData name="id_utc">00.370</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.17</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889045265122905,41.683861384211163 -0.889079664300921,41.6838614944037 -0.889078967466715,41.683908144624297 -0.889044568263869,41.683908034429493 -0.889045265122905,41.683861384211163</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.380</SimpleData>
+		<SimpleData name="id_utc">00.380</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.16</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.889009370306237,41.683861269215029 -0.889044068659436,41.683861380378225 -0.889043371799535,41.683908030596534 -0.889008673421266,41.683907919432542 -0.889009370306237,41.683861269215029</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.390</SimpleData>
+		<SimpleData name="id_utc">00.390</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.15</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88897347551298,41.683861154207762 -0.889008173865608,41.683861265381807 -0.889007476979772,41.683907915599306 -0.888972778602076,41.683907804424464 -0.88897347551298,41.683861154207762</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.400</SimpleData>
+		<SimpleData name="id_utc">00.400</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.14</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888937580720316,41.683861039189296 -0.888972279072371,41.683861150374177 -0.888971582160602,41.683907800590831 -0.888936883783477,41.68390768940516 -0.888937580720316,41.683861039189296</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.410</SimpleData>
+		<SimpleData name="id_utc">00.410</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.13</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888901685928243,41.683860924159603 -0.888936384279727,41.683861035355321 -0.888935687342024,41.683907685571164 -0.888900988965471,41.683907574374643 -0.888901685928243,41.683860924159603</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.420</SimpleData>
+		<SimpleData name="id_utc">00.420</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.12</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888865791136762,41.683860809118691 -0.888900489487673,41.683860920325252 -0.888899792524037,41.683907570540271 -0.888865094148056,41.683907459332922 -0.888865791136762,41.683860809118691</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.430</SimpleData>
+		<SimpleData name="id_utc">00.430</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.11</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888829896345873,41.68386069406656 -0.888864594696212,41.683860805283949 -0.888863897706641,41.683907455498165 -0.888829199331234,41.683907344279959 -0.888829896345873,41.68386069406656</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.440</SimpleData>
+		<SimpleData name="id_utc">00.440</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.10</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888794001555575,41.683860579003216 -0.888828699905342,41.683860690231455 -0.888828002889838,41.68390734044484 -0.888793304515002,41.683907229215798 -0.888794001555575,41.683860579003216</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.450</SimpleData>
+		<SimpleData name="id_utc">00.450</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.09</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888758106765869,41.683860463928639 -0.888792805115064,41.683860575167742 -0.888792108073627,41.683907225380302 -0.888757409699363,41.683907114140418 -0.888758106765869,41.683860463928639</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.460</SimpleData>
+		<SimpleData name="id_utc">00.460</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.08</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888722211976755,41.683860348842863 -0.888756910325378,41.683860460092802 -0.888756213258008,41.683907110304553 -0.888721514884315,41.683906999053825 -0.888722211976755,41.683860348842863</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.470</SimpleData>
+		<SimpleData name="id_utc">00.470</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.07</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888686317188233,41.683860233745868 -0.888721015536284,41.683860345006657 -0.888720318442979,41.683906995217576 -0.88868562006986,41.683906883956013 -0.888686317188233,41.683860233745868</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.480</SimpleData>
+		<SimpleData name="id_utc">00.480</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.06</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888650422400303,41.683860118637682 -0.888685120747781,41.683860229909286 -0.888684423628543,41.683906880119395 -0.888649725255996,41.683906768846967 -0.888650422400303,41.683860118637682</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.490</SimpleData>
+		<SimpleData name="id_utc">00.490</SimpleData>
+		<SimpleData name="id_centro">DESPACHO 0.05</SimpleData>
+		<SimpleData name="tipo_de_us">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888614188987715,41.683882662191209 -0.888578593284312,41.683882548019554 -0.888578931922074,41.683859889345484 -0.88864922592566,41.683860114799096 -0.88864852878049,41.683906765008388 -0.888613830442745,41.683906653725238 -0.888614188987715,41.683882662191209</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.500</SimpleData>
+		<SimpleData name="id_utc">00.500</SimpleData>
+		<SimpleData name="id_centro">RACK COMUNICACIÓN</SimpleData>
+		<SimpleData name="tipo_de_us">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888578573364479,41.683883880879186 -0.888612972593528,41.683883991213413 -0.888612633967238,41.683906649887774 -0.888578234726117,41.68390653955317 -0.888578573364479,41.683883880879186</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.510</SimpleData>
+		<SimpleData name="id_utc">00.510</SimpleData>
+		<SimpleData name="id_centro">VESTUARIO</SimpleData>
+		<SimpleData name="tipo_de_us">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.8885430372272,41.683859774204031 -0.888577137255781,41.683859883588894 -0.888576440058526,41.683906533796545 -0.888560586552973,41.683906482943151 -0.888560666234073,41.683901151491924 -0.888542419687917,41.683901092959715 -0.8885430372272,41.683859774204031</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.520</SimpleData>
+		<SimpleData name="id_utc">00.520</SimpleData>
+		<SimpleData name="id_centro">VESTUARIO</SimpleData>
+		<SimpleData name="tipo_de_us">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888507142441632,41.683859659051031 -0.888541242469651,41.683859768446574 -0.888540624929219,41.683901087202244 -0.88852237838323,41.683901028666838 -0.888522298698967,41.683906360117923 -0.888506445193808,41.683906309257068 -0.888507142441632,41.683859659051031</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.530</SimpleData>
+		<SimpleData name="id_utc">00.530</SimpleData>
+		<SimpleData name="id_centro">CUADRO ELÉCTRICO</SimpleData>
+		<SimpleData name="tipo_de_us">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888507798876559,41.683755692857886 -0.888540702376982,41.683755798413813 -0.888540403569128,41.683775791350406 -0.888507499232318,41.683775685832387 -0.888507798876559,41.683755692857886</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.540</SimpleData>
+		<SimpleData name="id_utc">00.540</SimpleData>
+		<SimpleData name="id_centro">PASILLO-COCINA</SimpleData>
+		<SimpleData name="tipo_de_us">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888529314928761,41.683697113098091 -0.888541578877799,41.683697152444417 -0.888540722297498,41.683754465550777 -0.888528458337507,41.683754426208552 -0.888529314928761,41.683697113098091</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.560</SimpleData>
+		<SimpleData name="id_utc">00.560</SimpleData>
+		<SimpleData name="id_centro">VESTUARIO</SimpleData>
+		<SimpleData name="tipo_de_us">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888507938671348,41.683754344636519 -0.888508350375576,41.683726798800841 -0.888527135274624,41.683726859064549 -0.888526723578411,41.683754404900476 -0.888507938671348,41.683754344636519</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.580</SimpleData>
+		<SimpleData name="id_utc">00.580</SimpleData>
+		<SimpleData name="id_centro">OFFICE</SimpleData>
+		<SimpleData name="tipo_de_us">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888508363656344,41.683725910225483 -0.888508775359707,41.68369836438967 -0.888527560250482,41.683698424653123 -0.888527148555133,41.683725970489185 -0.888508363656344,41.683725910225483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.590</SimpleData>
+		<SimpleData name="id_utc">00.590</SimpleData>
+		<SimpleData name="id_centro">COCINA</SimpleData>
+		<SimpleData name="tipo_de_us">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888509551934036,41.683638400929276 -0.888542455374689,41.683638506483312 -0.888541598798296,41.68369581957694 -0.888508695328438,41.683695714021994 -0.888509551934036,41.683638400929276</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.595</SimpleData>
+		<SimpleData name="id_utc">00.595</SimpleData>
+		<SimpleData name="id_centro">OFFICE-CAFETERÍA</SimpleData>
+		<SimpleData name="tipo_de_us">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888509850749183,41.683618407983637 -0.888542754179647,41.683618513537347 -0.888542475295032,41.683637173620227 -0.88850957185506,41.683637068066254 -0.888509850749183,41.683618407983637</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.600</SimpleData>
+		<SimpleData name="id_utc">00.600</SimpleData>
+		<SimpleData name="id_centro">CAFETERÍA</SimpleData>
+		<SimpleData name="tipo_de_us">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888544548936162,41.683618519294626 -0.888568478704103,41.683618596054657 -0.88856911613648,41.683575944418045 -0.88854578456832,41.683575869577368 -0.888546342332989,41.683538549428825 -0.888652829730318,41.683538890968173 -0.888649284307495,41.683776140374093 -0.88854219839608,41.683775797308741 -0.888544548936162,41.683618519294626</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.610</SimpleData>
+		<SimpleData name="id_utc">00.610</SimpleData>
+		<SimpleData name="id_centro">BAÑOS</SimpleData>
+		<SimpleData name="tipo_de_us">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888548146359504,41.683497900898054 -0.888653437227564,41.683498238597323 -0.888652869566214,41.683536225241866 -0.888547578636212,41.683535887540636 -0.888548146359504,41.683497900898054</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.620</SimpleData>
+		<SimpleData name="id_utc">00.620</SimpleData>
+		<SimpleData name="id_centro">BAÑOS</SimpleData>
+		<SimpleData name="tipo_de_us">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888548733999883,41.683458581480984 -0.888654024803827,41.683458919178207 -0.888653457145189,41.683496905751937 -0.888548166279303,41.683496568052739 -0.888548733999883,41.683458581480984</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.630</SimpleData>
+		<SimpleData name="id_utc">00.630</SimpleData>
+		<SimpleData name="id_centro">CONSERJERIA</SimpleData>
+		<SimpleData name="tipo_de_us">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.88857562627435,41.683380524044871 -0.888575652558345,41.683378765305186 -0.888593599817838,41.683378822869251 -0.888592444513271,41.683456128931645 -0.88857449723229,41.683456071366884 -0.888575600777567,41.683382230109707 -0.888578882539917,41.683382240635865 -0.888578908036613,41.683380534571015 -0.888577759411978,41.683380530886858 -0.88857777216034,41.683379677854454 -0.88857662353572,41.683379674170276 -0.888576610787343,41.683380527202679 -0.88857562627435,41.683380524044871</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.640</SimpleData>
+		<SimpleData name="id_utc">00.640</SimpleData>
+		<SimpleData name="id_centro">MANTENIMIENTO</SimpleData>
+		<SimpleData name="tipo_de_us">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888593760647216,41.683456133152959 -0.888594331659863,41.683417924409589 -0.888615748736035,41.683417993099226 -0.888615177736061,41.683456201843008 -0.888593760647216,41.683456133152959</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mapa">
+		<SimpleData name="layer">00.650</SimpleData>
+		<SimpleData name="id_utc">00.650</SimpleData>
+		<SimpleData name="id_centro">CUADRO ELECTRICO</SimpleData>
+		<SimpleData name="tipo_de_us">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>-0.888594344939208,41.683417035834154 -0.888594915950208,41.683378827090522 -0.888616333013411,41.683378895779747 -0.888615762015085,41.683417104523777 -0.888594344939208,41.683417035834154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

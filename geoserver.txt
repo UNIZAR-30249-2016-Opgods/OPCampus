@@ -1,0 +1,36 @@
+cliente web:
+  http://geoserver-naxsel.rhcloud.com/web/
+  user: admin
+  pass: labis
+
+ssh:
+    geoserver @ http://geoserver-naxsel.rhcloud.com/ (uuid: 570d7ad72d5271904d000184)
+    ---------------------------------------------------------------------------------
+      Domain:          naxsel
+      Created:         12:46 AM
+      Gears:           2 (defaults to small)
+      Git URL:         ssh://570d7ad72d5271904d000184@geoserver-naxsel.rhcloud.com/~/git/geoserver.git/
+      Initial Git URL: https://github.com/thesteve0/geoserver-on-openshift
+      SSH:             570d7ad72d5271904d000184@geoserver-naxsel.rhcloud.com
+      Deployment:      auto (on git push)
+
+      haproxy-1.4 (Web Load Balancer)
+      -------------------------------
+        Gears: Located with jbossews-2.0
+
+      jbossews-2.0 (Tomcat 7 (JBoss EWS 2.0))
+      ---------------------------------------
+        Scaling: x1 (minimum: 1, maximum: available) on small gears
+
+      postgresql-9.2 (PostgreSQL 9.2)
+      -------------------------------
+        Gears:          1 small
+        Connection URL: postgresql://$OPENSHIFT_POSTGRESQL_DB_HOST:$OPENSHIFT_POSTGRESQL_DB_PORT
+        Database Name:  geoserver
+        Password:       w-zYzUp7KHP8
+        Username:       adminxclqu1x
+
+Postgresql:
+  Database: labis
+  User: labis
+  pass: labis

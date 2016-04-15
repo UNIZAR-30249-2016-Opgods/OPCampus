@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.1.1">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>1169</x>
+      <y>7</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Modelo Dominio", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>182</x>
+      <y>0</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText(" Modelo Arquitectura", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>0</x>
+      <y>112</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Cliente", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>0</x>
+      <y>217</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Servidor", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>0</x>
+      <y>336</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("BBDD", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>168</y>
+      <w>469</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;650.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>273</y>
+      <w>469</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;650.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>378</y>
+      <w>469</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;650.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>0</x>
+      <y>56</y>
+      <w>469</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;650.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>84</x>
+      <y>21</y>
+      <w>21</w>
+      <h>448</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;620.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>112</x>
+      <y>91</y>
+      <w>70</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>Mapa</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>315</x>
+      <y>91</y>
+      <w>70</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>AppMovil</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>119</x>
+      <y>224</y>
+      <w>70</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>GeoServer</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>301</x>
+      <y>224</y>
+      <w>112</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>BusquedaProfesores</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>196</x>
+      <y>336</y>
+      <w>70</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>BBDD</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>147</x>
+      <y>105</y>
+      <w>42</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>lt=)-
+</panel_attributes>
+    <additional_attributes>30.0;120.0;30.0;50.0;10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>161</x>
+      <y>196</y>
+      <w>42</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=-()
+m1= WMS
+
+</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>336</x>
+      <y>196</y>
+      <w>21</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=-()
+
+</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>322</x>
+      <y>105</y>
+      <w>84</w>
+      <h>105</h>
+    </coordinates>
+    <panel_attributes>lt=)-
+m1= HTTP REST
+</panel_attributes>
+    <additional_attributes>30.0;120.0;30.0;50.0;10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>224</x>
+      <y>308</y>
+      <w>21</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=-()
+
+</panel_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>154</x>
+      <y>238</y>
+      <w>84</w>
+      <h>98</h>
+    </coordinates>
+    <panel_attributes>lt=)-
+m1=JDBC SQL
+</panel_attributes>
+    <additional_attributes>90.0;110.0;10.0;110.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>231</x>
+      <y>245</y>
+      <w>126</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>lt=)-
+m1=JDBC JPA
+</panel_attributes>
+    <additional_attributes>20.0;100.0;160.0;100.0;160.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>917</x>
+      <y>140</y>
+      <w>98</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Barra Busqueda
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>686</x>
+      <y>259</y>
+      <w>994</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;1400.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1043</x>
+      <y>308</y>
+      <w>98</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Contexto
+--
+-planta 
+-extent</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>868</x>
+      <y>98</y>
+      <w>644</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>Int. Usuario</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>686</x>
+      <y>462</y>
+      <w>1001</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;1410.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1190</x>
+      <y>770</y>
+      <w>126</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Android GUI
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1043</x>
+      <y>644</y>
+      <w>140</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Value&gt;&gt;?
+Despacho
+--
+-localizacion: Localizacion
+-codigo: String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1309</x>
+      <y>623</y>
+      <w>126</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Value&gt;&gt;
+Acceso Parking
+--
+-punto: Punto
+-calle: String
+-numero: int
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1477</x>
+      <y>504</y>
+      <w>182</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Seccion Parking
+--
+-nombre: String
+-punto: Punto
++ocuparPlaza()
++liberarPlaza()
+//agregado con sensor para el repositorio
+//parking-sensor-ruta
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1442</x>
+      <y>623</y>
+      <w>133</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Value&gt;&gt;
+Ocupacion
+--
+-nplazas: int
+-ocupadas: int
+--
++ocuparPlaza()
++liberarPlaza()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1029</x>
+      <y>511</y>
+      <w>126</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+Profesor
+--
+-nombre: String
+-disponibilidad: boolean
+-info: String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>686</x>
+      <y>714</y>
+      <w>1001</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;20.0;1410.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>847</x>
+      <y>511</y>
+      <w>161</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Repository&gt;&gt;
+Repos Profesores
+--
++findOne(objID): Profesor 
++fuzzyFind (String): Profesor []
++findAll(): Profesor []
++findFloor(UTC planta): Profesor[]
++modificarDisponibilidad(objID)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>700</x>
+      <y>154</y>
+      <w>112</w>
+      <h>119</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("User Interface", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>826</x>
+      <y>28</y>
+      <w>21</w>
+      <h>910</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1280.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>700</x>
+      <y>805</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Infrastructure", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>693</x>
+      <y>371</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Application", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>693</x>
+      <y>602</y>
+      <w>112</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>//Text Element
+customelement=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Domain", width/2, 18, center) //fg= //Parameters (text, x, y, horizontal alignment)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1064</x>
+      <y>140</y>
+      <w>84</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Mapa
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1197</x>
+      <y>140</y>
+      <w>84</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Menu Lateral
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1099</x>
+      <y>182</y>
+      <w>21</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;180.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>959</x>
+      <y>644</y>
+      <w>77</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Value&gt;&gt;
+Punto
+--
+-SRC
+-latitud
+-longitud
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>847</x>
+      <y>644</y>
+      <w>98</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Value&gt;&gt;
+Localizacion
+--
+-punto
+-UTCplanta
+-UTCedificio
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>854</x>
+      <y>315</y>
+      <w>168</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Buscar Prof.
+--
++buscar(String): Profesores DTO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>952</x>
+      <y>371</y>
+      <w>21</w>
+      <h>154</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;200.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1043</x>
+      <y>770</y>
+      <w>119</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>API Google
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>945</x>
+      <y>182</y>
+      <w>21</w>
+      <h>147</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;190.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1351</x>
+      <y>770</y>
+      <w>84</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>// Class Element
+
+BBDD
+--
+
+
+customelement=
+// DB Symbol
+drawArc(5,5,26,8,0,180,true) fg=black bg=#222222 //Parameters (x, y, width, height, start, extent, open)
+drawArc(5,5,26,8,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawRectangle(5,9,26,15) lw=0.1 bg=#222222 //Parameters (x, y, width, height)
+drawLine(5,9,5,24)fg=black //Parameters (x1, y1, x2, y2) 
+drawLine(31,9,31,24)fg=black //Parameters (x1, y1, x2, y2) 
+drawArc(5,10,26,8,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawArc(5,15,26,8,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawArc(5,20,26,8,180,180,true)fg=black bg=#222222 //Parameters (x, y, width, height, start, extent, open)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1323</x>
+      <y>140</y>
+      <w>84</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>Menu Contextual
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1316</x>
+      <y>504</y>
+      <w>126</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Obj Valor&gt;&gt;
+Ruta
+--
+//-acceso: AccesoParking
+-camino: poliLinea 
+//ID bloque plazas
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1540</x>
+      <y>581</y>
+      <w>21</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1120</x>
+      <y>588</y>
+      <w>21</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1435</x>
+      <y>532</y>
+      <w>56</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=2
+</panel_attributes>
+    <additional_attributes>10.0;20.0;60.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1176</x>
+      <y>504</y>
+      <w>126</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Repository&gt;&gt;
+R. Parking
+--
++findOne(ObjID) : 
++modificarPlazas(int, )
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1169</x>
+      <y>294</y>
+      <w>231</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Buscar Parking
+--
++obtenerSecciones(): SeccionesParkingDTO
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1239</x>
+      <y>343</y>
+      <w>21</w>
+      <h>175</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;230.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1680</x>
+      <y>483</y>
+      <w>21</w>
+      <h>245</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;330.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1701</x>
+      <y>497</y>
+      <w>119</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;&gt;&gt;
+Simulacion Profesor
+--
++cambiarDisponible()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>1484</x>
+      <y>294</y>
+      <w>210</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>Precondicion de Ocupar Plazas..
+bg=white
+Debe de haber un numero de plazas libres
+mayor que 0. Sino, excepción.
+--
+Precondicion de Liberar Plazas..
+El parking no debe de estar vacío.
+Sino, excepció
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1589</x>
+      <y>399</y>
+      <w>21</w>
+      <h>119</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;150.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1470</x>
+      <y>770</y>
+      <w>168</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>SensorParking
+--
++Entrar()
++Salir()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1701</x>
+      <y>308</y>
+      <w>168</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Simulador
+--
++Simular(): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1701</x>
+      <y>574</y>
+      <w>119</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;&gt;&gt;
+Simulacion Parking
+--
++llenarPlaza(Parking)
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1631</x>
+      <y>364</y>
+      <w>224</w>
+      <h>455</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;630.0;300.0;630.0;300.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1582</x>
+      <y>581</y>
+      <w>105</w>
+      <h>203</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;sujeto-observador&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;270.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1372</x>
+      <y>567</y>
+      <w>56</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1= 1,acceso</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>
